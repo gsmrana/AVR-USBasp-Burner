@@ -9,6 +9,8 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AVR USBasp Burner Setup", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Megamind.IO.FileFormat", "..\Megamind.IO.FileFormat\Megamind.IO.FileFormat.csproj", "{4054A01A-3030-4250-9A5E-CF70FA3713B3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Megamind.Num.Encode", "..\Megamind.Num.Encode\Megamind.Num.Encode.csproj", "{16DDCE91-E941-4A42-9646-D385A4123A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{4054A01A-3030-4250-9A5E-CF70FA3713B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4054A01A-3030-4250-9A5E-CF70FA3713B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4054A01A-3030-4250-9A5E-CF70FA3713B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DDCE91-E941-4A42-9646-D385A4123A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DDCE91-E941-4A42-9646-D385A4123A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DDCE91-E941-4A42-9646-D385A4123A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DDCE91-E941-4A42-9646-D385A4123A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
